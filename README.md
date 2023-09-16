@@ -15,5 +15,3 @@ Word press DB creation and Apache server installation.
 
 Set up the server and post your new WordPress app.
 
-
-![Uploading Screenshot 2023-09-16 at 12.28.52 PM.png…]()
