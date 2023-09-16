@@ -14,4 +14,5 @@ Connect your EC2 instance using a MySQL client.
 Word press DB creation and Apache server installation.
 
 Set up the server and post your new WordPress app.
-(https://github.com/princekwes/Wordpress-Website-With-Ec2-Route53-Custom-Domain/assets/1629130/f13a9a7c-b0cb-4ab8-8661-d7f3c633b453)
+
+https://github.com/princekwes/Wordpress-Website-With-Ec2-Route53-Custom-Domain/assets/1629130/f13a9a7c-b0cb-4ab8-8661-d7f3c633b453
