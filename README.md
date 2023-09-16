@@ -1,4 +1,4 @@
-# Wordpress-Website-With-Ec2-Route53-Custom-Domain
+# Wordpress-Website-With-Ec2
 Deploy a Wordpress Site On Ec2 
 
 Create an EC2 instance
@@ -14,4 +14,7 @@ Connect your EC2 instance using a MySQL client.
 Word press DB creation and Apache server installation.
 
 Set up the server and post your new WordPress app.
+
+
+![Screenshot 2023-09-16 at 12 28 52 PM](https://github.com/princekwes/Wordpress-Website-With-Ec2/assets/1629130/df1da228-682c-42da-b08f-aa89ed5ffbf6)
 
